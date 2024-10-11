@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safeer Abbas</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">A passionate Python developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safeerabbas624&label=Profile%20views&color=0e75b6&style=flat" alt="safeerabbas624" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python basics, python scripting, python lib and any thing about python.**
 
-- 📫 How to reach me **safeerabbas.624@**
+- 📫 How to reach me **@safeerabbas.624**
 
 - 📄 Know about my experiences [https://safeerabbas624.github.io/safeerabbas/](https://safeerabbas624.github.io/safeerabbas/)
 
